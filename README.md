@@ -32,11 +32,6 @@ For detailed guidance, refer to our [Staking Guide](#/staking-guide).
 
 Participate in our staking program and enjoy various rewards, including additional MPX tokens for various validator and community activities. Check out our [Rewards Program](#/rewards-program) for more details.
 
-## Get in Touch
-
-- **Website**: [https://kacperkarbownik.xyz/](https://kacperkarbownik.xyz/)
-- **Contact**: [Get in Touch](mailto:kacperkarbownik98@gmail.com)
-
 ## Contribute
 
 Contributions to the validator node project are welcome. If you have a feature request, bug report, or patch, please feel free to submit it via pull requests or issues.
