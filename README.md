@@ -1,90 +1,56 @@
-# Free React / Next.js landing page template
+# CrossFi Validator
 
-![Open React / Next.js template preview](https://user-images.githubusercontent.com/2683512/231426532-c71f4291-4813-401b-a569-ada47fe13efa.png)
+Welcome to the official repository for the CrossFi Validator node. Our validator is dedicated to maintaining the CrossFi blockchain's integrity, providing top-tier security, consistent uptime, and community-driven governance.
 
-**Open** is a **free React / Next.js landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+## Validator Services
 
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
+Our validator runs 24/7 with real-time monitoring and updates to ensure maximum performance and reliability. We provide:
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
+- **24/7 Uptime**: Ensuring continuous operation and reward accumulation for our delegators.
+- **High Security**: With state-of-the-art security measures to protect the network and your stake.
+- **Transparent Fees**: Competitive and clear fee structures for maximum reward efficiency.
+- **Community Governance**: Active participation in the CrossFi community for proposal voting and network upgrades.
+- **Professional Support**: Expert team available to assist with any queries or issues.
 
-*Version 1.0.0 built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0).*
-*Version 2.0.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/open-react-template/releases/tag/2.0.3).*
+## Become a Delegator
 
-## Live demo
+To delegate your MPX tokens to our validator:
 
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
+1. Visit our staking platform [CrossFi Staking](#)
+2. Follow the instructions to delegate your tokens.
+3. Enjoy your staking rewards!
 
-## Open PRO
+For detailed guidance, refer to our [Staking Guide](#/staking-guide).
 
-[![Open Pro](https://user-images.githubusercontent.com/2683512/151177673-e56ade57-c98d-4c37-b315-d313bd14bb53.png)](https://cruip.com/)
+## Validator Information on XFI Scan
 
-## Design files
+- Validator Name: Degen House
+- Validator Address: mxvaloper16dp3vfc3t5yxd4ha0qkmmzfv9kj0e46m2axnjy
+- [XFI Scan Validator Profile](https://test.xfiscan.com/validators/mxvaloper16dp3vfc3t5yxd4ha0qkmmzfv9kj0e46m2axnjy)
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/401KSUS
+## Rewards Program
 
-## Usage
+Participate in our staking program and enjoy various rewards, including additional MPX tokens for various validator and community activities. Check out our [Rewards Program](#/rewards-program) for more details.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Get in Touch
 
-### Getting Started
+- **Website**: [https://kacperkarbownik.xyz/](https://kacperkarbownik.xyz/)
+- **Contact**: [Get in Touch](mailto:kacperkarbownik98@gmail.com)
 
-First, run the development server:
+## Contribute
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Contributions to the validator node project are welcome. If you have a feature request, bug report, or patch, please feel free to submit it via pull requests or issues.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## License
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is open-sourced under the GPL license.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Acknowledgments
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Special thanks to the CrossFi team, our diligent node operators, and our amazing community of delegators for making this possible.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-### Learn More
+*This README is also a testament to the active development and maintenance conducted by the CrossFi validator team.*
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-### Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-
-### Support notes
-This template has been developed with the App Router (`app`) and React Server Components. If you’re unfamiliar with these beta features, you can find more information about them on the Next.js beta documentation page. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
-
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
-
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2023 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
+*For any additional information or inquiries, please reach out to us directly.*
